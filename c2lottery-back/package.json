@@ -1,0 +1,28 @@
+{
+  "name": "c2lottery",
+  "version": "1.0.0",
+  "description": "little homework-20170815",
+  "main": "app.js",
+  "dependencies": {
+    "jsonwebtoken": "^7.4.2",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-json": "^2.0.2",
+    "koa-jwt": "^3.2.2",
+    "koa-logger": "^3.0.1",
+    "koa-router": "^7.2.1",
+    "mysql2": "^1.4.1",
+    "passport": "^0.4.0",
+    "sequelize": "^4.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "loziaki",
+  "license": "ISC"
+}
